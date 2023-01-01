@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kongutei.com</id>
+    <title>不学无术</title>
+    <updated>2023-01-01T19:58:58.508Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kongutei.com"/>
+    <link rel="self" href="https://kongutei.com/atom.xml"/>
+    <subtitle>好奇心生万物</subtitle>
+    <logo>https://kongutei.com/images/avatar.png</logo>
+    <icon>https://kongutei.com/favicon.ico</icon>
+    <rights>All rights reserved 2023, 不学无术</rights>
+    <entry>
+        <title type="html"><![CDATA[Recent Discover｜近期在听的音乐]]></title>
+        <id>https://kongutei.com/post/recent-discoverorjin-qi-zai-ting-de-yin-le/</id>
+        <link href="https://kongutei.com/post/recent-discoverorjin-qi-zai-ting-de-yin-le/">
+        </link>
+        <updated>2022-12-27T14:42:58.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>
+<p>《巫女》- 雷擎</p>
+<p>从和Linion的合作曲《Mountain Dude》开始认识雷擎，然后开始听他的音乐。</p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Txe3rW2LtxvwRgDM7vapp?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</li>
+<li>
+<p>《Tokai》- 大贯妙子</p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1SmwJJ8YVgiXtyE6elhUx1?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</li>
+<li>
+<p>《愛のCoda》- Kirinji</p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3BhvqCVRh4S9eXReG4NxsO?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</li>
+<li>
+<p>《核：冬夜的第一支歌》- 昨夜派对</p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3JW2jgcDzozznD2eAhfDwQ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</li>
+<li>
+<p>《明知故犯》- 许美静</p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0pnmUYIstjsVeJQj3wEHGI?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</li>
+<li>
+<p>《왜 그래》- 金贤哲</p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2klcj9Vf9fW0djdMzfi9ny?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对于IM多端同步的思考｜对比Telegram与微信]]></title>
+        <id>https://kongutei.com/post/dui-yu-im-duo-duan-tong-bu-de-si-kao-ordui-bi-telegram-yu-wei-xin/</id>
+        <link href="https://kongutei.com/post/dui-yu-im-duo-duan-tong-bu-de-si-kao-ordui-bi-telegram-yu-wei-xin/">
+        </link>
+        <updated>2022-12-22T02:44:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="写在前面">写在前面</h3>
+<p>目前无可否认的是，使用微信的频率占据了生活的绝大部分空间。饮食，工作，交友，微信试图侵入所有人生活的每一个角落。但是微信绝非是一个完美的通讯软件，当然它也早已做了跳出通讯软件范畴的很多事情。</p>
+<p>我在近几个月开始频繁使用Telegram，并逐步的感受到了这两个软件的一些不同之处。为何Telegram的多设备同步能做得如此理想，它也并非市面上唯一一个能多端同步的通讯软件；而微信似乎从未理会过多端同步的痛点，给我的工作生活带来了诸多不便。</p>
+<h3 id="多端同步的痛点">多端同步的痛点</h3>
+<p>但我并未着急否认微信的做法，我想知道是什么限制了微信去做到多端同步。但在此之前，我想梳理一下我遇到的需要多端同步的场景：</p>
+<ol>
+<li>加入一个新的群聊后，我想看到历史信息。如果是工作性质的群聊，这样可以确保我不会错过先前发送的任何重要信息或者文件；</li>
+<li>更换设备后，我想聊天能够顺畅地接力下去。在我的工作电脑上登陆微信后，下班回家登陆我家里的电脑端微信记录不会同步，和朋友的聊天记录会有一个断层。</li>
+</ol>
+<p>然而这两个问题，都被Telegram所解决了。我并非想鼓吹Telegram有多么优秀，微信很多功能Telegram也没有覆盖。我只是单纯的希望微信能查漏补缺，因为我相信不只是我有这样的问题。</p>
+<h3 id="是技术壁垒吗">是技术壁垒吗？</h3>
+<p>那么多端同步面临的是技术壁垒吗？还是技术早已成熟，只是微信方决策下没把这个功能考虑进去呢？</p>
+<p>首先，考虑其中一个原因是，因为微信用户量高于Telegram用户量，因此储存成本高昂的情况下无法进行信息的多端同步。关于这点我们需要对比这两个通讯软件的月活：</p>
+<style>
+.center 
+{
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<div class="center">
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Telegram</th>
+<th style="text-align:center">微信</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">7亿</td>
+<td style="text-align:center">12.99亿</td>
+</tr>
+</tbody>
+</table>
+</div>
+<br>
+<p>不难看出，微信月活达到了Telegram的将近两倍，加上微信是无会员收费的计划的。反观Telegram则是推出了Telegram Premium来增加收入，或许也是为了覆盖其高昂的云存储费用。但我思考，若腾讯推出WeChat Premium，支持多端同步以及大文件上传，我想Premium会员的数量将会非常的可观，但不知为何微信并未这样做。</p>
+<p>从技术上讲，即时通讯软件的多端同步是一个较为高级的功能（袁武林，2019）。我的知识储备不允许我对微信是否有实现多端同步的技术进行定论，但从腾讯QQ这款产品就可以看出，多端同步与消息漫游并非不可实现，只是微信与QQ的架构不一定相同，实现难度也可能有参差。</p>
+<h3 id="总结与想法">总结与想法</h3>
+<p>主观上，我相信微信是具有实现这个功能的技术实力的，但是我认为微信仍然在思考这个功能在中国国情下需要如何落地，因为中国国民的使用习惯与需求必然有别于其他国家。我个人倾向于微信通过会员形式增加收入，并将其用于多端同步的云存储费用，服务于有这类需求的用户。既然微信现在很难分离生活以及工作，那么不如将其打造成一个真正实用的工具，让它能够跨场景地满足各种需求。</p>
+<h3 id="引用">引用</h3>
+<ul>
+<li>The Telegram Team. (2022, June 19). <em>700 Million Users and Telegram Premium</em>. Telegram. https://telegram.org/blog/700-million-and-premium</li>
+<li>新浪科技. (2022, August 17). <em>腾讯：微信及WeChat月活12.99亿，同比增长3.8%</em>. 新浪科技. https://finance.sina.com.cn/tech/internet/2022-08-17/doc-imizmscv6598041.shtml</li>
+<li>袁武林. (2019, September 16). <em>09 | 分布式一致性：让你的消息支持多终端漫游</em>. 极客时间. https://time.geekbang.org/column/article/136020?noteid=9166050</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在这个星球上的第一颗硕果]]></title>
+        <id>https://kongutei.com/post/hello-world/</id>
+        <link href="https://kongutei.com/post/hello-world/">
+        </link>
+        <updated>2022-11-17T07:35:00.000Z</updated>
+        <content type="html"><![CDATA[<p>是的，我终于搭建了自己的博客。</p>
+<p>曾经我将博客搭建在了Bitcron，体验虽佳，但苦于数据仍然托管于第三方。因此探索许久后，决定迁移到Github Pages进行写作。</p>
+<p>往后，这里将是我的起点，我也会在此无话不谈，就当作是自己的树洞，一方可供倾诉的天地。</p>
+<p>也会谈论些我认知范围内的内容，所以与读者想法有冲突应是常态，欢迎纠正，欢迎讨论。</p>
+<p>以上就是所有的简介，我们在文章中见吧。</p>
+]]></content>
+    </entry>
+</feed>
